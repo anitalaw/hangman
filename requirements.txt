@@ -5,5 +5,5 @@ Jinja2==2.10.1
 jinja2-highlight==0.6.1
 jsx-lexer==0.0.7
 MarkupSafe==1.1.1
-Pygments==2.4.0
+Pygments==2.7.4
 Werkzeug==0.15.4
